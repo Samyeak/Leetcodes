@@ -1,0 +1,15 @@
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodes.exe
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.deps.json
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.runtimeconfig.json
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.runtimeconfig.dev.json
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.dll
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.AssemblyInfoInputs.cache
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.AssemblyInfo.cs
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.csproj.CopyComplete
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.dll
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodesUnitTests\Debug\netcoreapp3.1\LeetCodesUnitTests.genruntimeconfig.cache

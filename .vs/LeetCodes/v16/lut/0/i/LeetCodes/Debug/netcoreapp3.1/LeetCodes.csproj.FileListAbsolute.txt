@@ -1,0 +1,10 @@
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodes\Debug\netcoreapp3.1\LeetCodes.exe
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodes\Debug\netcoreapp3.1\LeetCodes.deps.json
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodes\Debug\netcoreapp3.1\LeetCodes.runtimeconfig.json
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodes\Debug\netcoreapp3.1\LeetCodes.runtimeconfig.dev.json
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\b\LeetCodes\Debug\netcoreapp3.1\LeetCodes.dll
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodes\Debug\netcoreapp3.1\LeetCodes.AssemblyInfoInputs.cache
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodes\Debug\netcoreapp3.1\LeetCodes.AssemblyInfo.cs
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodes\Debug\netcoreapp3.1\LeetCodes.csproj.CopyComplete
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodes\Debug\netcoreapp3.1\LeetCodes.dll
+D:\Repositories\Leetcodes\LeetCodes\.vs\LeetCodes\v16\lut\0\i\LeetCodes\Debug\netcoreapp3.1\LeetCodes.genruntimeconfig.cache

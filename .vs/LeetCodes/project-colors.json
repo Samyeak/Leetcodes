@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f849f2c-a6e1-4af0-887d-0265aead7235": {
+      "ProjectGuid": "1f849f2c-a6e1-4af0-887d-0265aead7235",
+      "DisplayName": "LeetCodes",
+      "ColorIndex": 0
+    },
+    "457ae9ed-bc20-4703-9ee9-7300ed57a529": {
+      "ProjectGuid": "457ae9ed-bc20-4703-9ee9-7300ed57a529",
+      "DisplayName": "LeetCodesUnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
